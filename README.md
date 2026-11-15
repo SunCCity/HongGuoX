@@ -2,7 +2,7 @@
 
 在 Windows 上直接看红果短剧的桌面客户端。不用装安卓模拟器，解压或安装后双击就能用，界面是一个独立的窗口。
 
-- 版本：**1.2.2**
+- 版本：以 [Releases 页面](https://github.com/SunCCity/HongGuoX/releases) 为准
 - 系统要求：**Windows 10（1709 及以上）/ Windows 11，64 位**
 - 分发方式：免安装压缩包，或安装包
 
@@ -14,7 +14,7 @@
 
 ### 方式一：免安装压缩包
 
-1. 把 `HongGuo-v1.2.2-windows-amd64.zip` 解压到一个**有写权限**的文件夹，例如桌面或 `D:\红果短剧`；
+1. 把 `HongGuo-v<版本>-windows-amd64.zip` 解压到一个**有写权限**的文件夹，例如桌面或 `D:\红果短剧`；
 2. 请完整解压，不要只把 `红果短剧.exe` 单独拷出来，同目录的其它文件要一起保留；
 3. 双击 `红果短剧.exe` 启动。
 
@@ -24,7 +24,7 @@
 
 ### 方式二：安装包
 
-1. 双击 `HongGuo-v1.2.2-windows-amd64-setup.exe`；
+1. 双击 `HongGuo-v<版本>-windows-amd64-setup.exe`；
 2. 按向导下一步，安装位置可以默认也可以自选；
 3. 按需勾选创建桌面快捷方式，完成安装；
 4. 从桌面或开始菜单启动。
@@ -182,12 +182,12 @@
 
 ## 版本
 
-当前版本 **1.2.2**，仅提供 Windows 64 位：
+最新版本见 [Releases 页面](https://github.com/SunCCity/HongGuoX/releases)，仅提供 Windows 64 位：
 
 | 文件 | 体积 | 说明 |
 |---|---|---|
-| `HongGuo-v1.2.2-windows-amd64-setup.exe` | 38,093,917 B（约 36.3 MiB） | 安装包，按向导安装 |
-| `HongGuo-v1.2.2-windows-amd64.zip` | 48,355,427 B（约 46.1 MiB） | 免安装压缩包，解压即用 |
+| `HongGuo-v<版本>-windows-amd64-setup.exe` | 38,093,917 B（约 36.3 MiB） | 安装包，按向导安装 |
+| `HongGuo-v<版本>-windows-amd64.zip` | 48,355,427 B（约 46.1 MiB） | 免安装压缩包，解压即用 |
 
 两个包内容一致，按使用习惯任选其一。升级时请整体替换，不要新旧版本文件混放。
 
